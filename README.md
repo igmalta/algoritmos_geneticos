@@ -2,7 +2,7 @@
 
 Se diseña un algoritmo para encontrar valores óptimos en funciones mediante la técnica de algoritmos genéticos. Trabaja con cromosomas binarios, es decir, un vector (o una lista o fila en una matriz) con genes de valor 1 o 0 (bits). El primer gen de cada cromosoma de la población representa el signo de un número decimal, 1 significa que es un valor negativo y 0 positivo. Por defecto se agregan 10 genes al final del cromosoma para simular la fracción decimal del número (milésimas) y, en consecuencia, los restantes genes definen la fracción entera.
 
-# Experimentos
+## Experimentos
 
 ### Función f(x) = -x*sin(√(|x|)) con x ∈[-512…512]
 
